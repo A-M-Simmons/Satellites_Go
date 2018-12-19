@@ -1,0 +1,7 @@
+{
+    "username" : "username",
+    "password" : "password",
+    "endpoint" : "satellitedata.cnznustjpml3.us-east-2.rds.amazonaws.com",
+    "port" : "3306",
+    "dbname": "Satellites"
+}
